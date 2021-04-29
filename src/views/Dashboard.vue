@@ -1,9 +1,12 @@
 <template>
-  <h1>Unauthenticated</h1>
+  <h1>Authenticated</h1>
 </template>
 
 <script>
 export default {
-  name: "Home",
+  name: "Dashboard",
 };
 </script>
+
+<style>
+</style>
